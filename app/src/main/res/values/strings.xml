@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hitungan Bunga Bank</string>
+
+    <string name="title">Silahkan masukan nilai sesuai petunjuk</string>
+    <string name="pinjaman">Jumlah Pinjaman (Rp)</string>
+    <string name="waktupiminjaman">Waktu Peminjaman (Bulan)</string>
+    <string name="sukubunga">Bunga (%)</string>
+
+    <string name="hitung">Hitung</string>
+
+    <string name="banyakbunga_x">Bunga/Bulan : %1$.0f</string>
+    <string name="angsuran_x">Agsuran/Bulan : %1$.0f</string>
+
+    <string name="pinjaman_invalid">Pinjaman tidak boleh kosong</string>
+    <string name="waktu_invalid">Waktu tidak boleh kosong</string>
+    <string name="bunga_invalid">Bunga tidak boleh kosong</string>
+
+</resources>
